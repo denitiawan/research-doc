@@ -1,2 +1,2 @@
-# research-docusaurus
-Software documentation with Docusaurus
+# research-doc
+Software documentation
